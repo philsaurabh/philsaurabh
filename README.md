@@ -25,8 +25,9 @@
 
 🔭I am full stack developer and ML enthusiast looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, **please do ⭐ the repository**.
+<hr />
 
-### My Digital Footprints 🌱
+## My Digital Footprints 🌱
 
 I am visible on multiple platforms with the name philsaurabh(Lover of Saurabh 😄) 
 
@@ -41,10 +42,10 @@ Click on the list below to look at my contributions:
    - Working on open source projects.
 </details>
 
+<hr />
 
 
-
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
