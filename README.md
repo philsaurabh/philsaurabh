@@ -17,17 +17,9 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=philsaurabh&hide=contribs,prs&show_icons=true&hide_border=true&title_color=888)
 <hr />
 
-## Connect me on:👯
-- Email: tavalkarsaurabh@gmail.com
-- LinkedIn: https://www.linkedin.com/in/saurabh-s-14a364125/
-- Github: https://www.github.com/philsaurabh
-<hr />
-
-🔭I am full stack developer and ML enthusiast looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
-If you found value in something I have created, **please do ⭐ the repository**.
-<hr />
-
 ## My Digital Footprints 🌱
+I am full stack developer and ML enthusiast looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
+If you found value in something I have created, **please do ⭐ the repository**.
 
 I am visible on multiple platforms with the name philsaurabh(Lover of Saurabh 😄) 
 
@@ -60,16 +52,11 @@ Click on the list below to look at my contributions:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <hr />
 
-[<img align="left" alt="philsaurabh.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="philsaurabh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="philsaurabh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="philsaurabh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="philsaurabh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Connect me on 👯
+- Email: tavalkarsaurabh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saurabh-s-14a364125/
+- Github: https://www.github.com/philsaurabh
+<br/>
 Feel free to reach out in case you want to just get in touch also.<br/>
 But,<br/>
 _**Note:** Please **do not spam** on the above mentioned email/profiles._
-[website]: http://philsaurabh.wordpress.com/
-[twitter]: https://twitter.com/Saurbhaofficial
-[youtube]: https://www.youtube.com/channel/UCcQa1T87a4ii_BI5bO7qGgA
-[instagram]: https://www.instagram.com/saurabhsofficial/
-[linkedin]: https://www.linkedin.com/in/saurabh-s-14a364125/
