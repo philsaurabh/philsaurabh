@@ -2,7 +2,7 @@
 [![website badge](https://img.shields.io/badge/website-philsaurabh-yellow?style=flat-square)](https://philsaurabh.wordpress.com)
 [![twitter badge](https://img.shields.io/badge/twitter-@saurabhaofficial-blue?style=flat-square&logo=twitter)](https://twitter.com/saurbhaofficial)
 [![hackerrank badge](https://img.shields.io/badge/hackerrank-philsaurabh-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/philsaurabh)
-[![hackerearth badge](https://img.shields.io/badge/hackerearth-@philsautabh-purple?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
+[![hackerearth badge](https://img.shields.io/badge/hackerearth-@philsaurabh-purple?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
 [![quora badge](https://img.shields.io/badge/quora-@philsaurabh-red?style=flat-square&logo=quora)](https://www.quora.com/profile/Saurabh-Sharma-1314)
 
 
@@ -18,15 +18,13 @@
 <hr />
 
 ## My Digital Footprints 🌱
-I am full stack developer and ML enthusiast looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
+I am full stack developer and ML enthusiast looking to solve real world problems. 
+I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, **please do ⭐ the repository**.
 
 I am visible on multiple platforms with the name philsaurabh(Lover of Saurabh 😄) 
-
-Click on the list below to look at my contributions:
-
 <details>
- <summary><strong>What I am learning/working on these days</strong></summary>
+ <summary><strong>What I am learning/working on these days(Click to see the list)</strong></summary>
    - Machine Learning and Full Stack Development<br/>
    - Hackerearth<br/>
    - Hackerrank<br/>
@@ -50,8 +48,8 @@ Click on the list below to look at my contributions:
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<hr />
-
+<br />
+<br/>
 ## Connect me on 👯
 - Email: tavalkarsaurabh@gmail.com
 - LinkedIn: https://www.linkedin.com/in/saurabh-s-14a364125/
@@ -59,4 +57,4 @@ Click on the list below to look at my contributions:
 <br/>
 Feel free to reach out in case you want to just get in touch also.<br/>
 But,<br/>
-_**Note:** Please **do not spam** on the above mentioned email/profiles._
+_ **Note:** Please **do not spam** on the above mentioned email/profiles. _
