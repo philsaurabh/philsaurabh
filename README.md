@@ -1,8 +1,8 @@
 ## Hi there, I'm Saurabh!
-[![website badge](https://img.shields.io/badge/website-ariv.se-yellow?style=flat-square)](https://philsaurabh.wordpress.com)
-[![twitter badge](https://img.shields.io/badge/twitter-@AriVanider-blue?style=flat-square&logo=twitter)](https://twitter.com/saurbhaofficial)
-[![hackerrank badge](https://img.shields.io/badge/dev.to-ari-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/philsaurabh)
-[![hackerearth badge](https://img.shields.io/badge/glitch-@a-magenta?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
+[![website badge](https://img.shields.io/badge/website-philsaurabh-yellow?style=flat-square)](https://philsaurabh.wordpress.com)
+[![twitter badge](https://img.shields.io/badge/twitter-@saurabhaofficial-blue?style=flat-square&logo=twitter)](https://twitter.com/saurbhaofficial)
+[![hackerrank badge](https://img.shields.io/badge/hackerrank.com-philsaurabh-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/philsaurabh)
+[![hackerearth badge](https://img.shields.io/badge/hackerearth-@philsautabh-magenta?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
 
 - 🎓 I'm currently learning everything.
 - 🌱 I’m currently learning from open source projects, youtube and my individual experience.
@@ -11,7 +11,7 @@
 - 🥅 Goal (2020): **Contribute** openly to **Data Science and Web Developer community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 - ⚡ Fun fact: I love classical music.
-- ♥ Here are my **GitHub Stats**.<br/><br/>
+- ♥ Here are my **GitHub Stats**:<br/><br/>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=philsaurabh&hide=contribs,prs&show_icons=true&hide_border=true&title_color=888)
 
 ## Connect me on:
@@ -21,7 +21,8 @@
 
 
 I am full stack developer and ML enthusiast looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
-If you found value in something I have created, **please do ⭐ the repository**.
+If you found value in something I have created, 
+**please do ⭐ the repository**.
 
 ### My Digital Footprints 🌱
 
