@@ -50,6 +50,7 @@ I am visible on multiple platforms with the name philsaurabh(Lover of Saurabh ðŸ
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br/>
+
 ## Connect me on ðŸ‘¯
 - Email: tavalkarsaurabh@gmail.com
 - LinkedIn: https://www.linkedin.com/in/saurabh-s-14a364125/
@@ -57,4 +58,5 @@ I am visible on multiple platforms with the name philsaurabh(Lover of Saurabh ðŸ
 <br/>
 Feel free to reach out in case you want to just get in touch also.<br/>
 But,<br/>
+
 _ **Note:** Please **do not spam** on the above mentioned email/profiles. _
