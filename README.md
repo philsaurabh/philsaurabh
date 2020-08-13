@@ -54,7 +54,7 @@ I am visible on multiple platforms with the name philsaurabh(Lover of Saurabh ðŸ
 
 ## Connect me on ðŸ‘¯
 - Email: tavalkarsaurabh@gmail.com
-- LinkedIn: https://www.linkedin.com/in/saurabh-s-14a364125/
+- LinkedIn: https://www.linkedin.com/in/philsaurabh/
 - Github: https://www.github.com/philsaurabh
 <br/>
 Feel free to reach out in case you want to just get in touch also.
