@@ -55,11 +55,10 @@ I am visible on multiple platforms with the name philsaurabh(Lover of Saurabh �
 <hr/>
 
 ## Connect me on 🤝
-- My [Email](tavalkarsaurabh@gmail.com)  💌
 - My [LinkedIn](https://www.linkedin.com/in/philsaurabh/) 👨🏻‍💻
 - My [Github](https://www.github.com/philsaurabh)  👨🏻‍🧮
 <br/>
 Feel free to reach out in case you want to just get in touch also.
 
 **But,**<br/> 
-_**Note:** Please **do not spam** on the above mentioned email/profiles._
+_**Note:** Please **do not spam** on the above mentioned profiles._
