@@ -1,12 +1,12 @@
 ## Hi there, I'm [Saurabh](https://philsaurabh.github.io/SaurabhWebResume/)!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![website badge](https://img.shields.io/badge/website-philsaurabh-yellow?style=flat-square)](https://philsaurabh.wordpress.com)
-[![twitter badge](https://img.shields.io/badge/twitter-@saurabhaofficial-blue?style=flat-square&logo=twitter)](https://twitter.com/saurbhaofficial)
+[![twitter badge](https://img.shields.io/badge/twitter-@saurabhaofficial-blue?style=flat-square&logo=twitter)](https://twitter.com/philsaurabh)
 [![hackerrank badge](https://img.shields.io/badge/hackerrank-philsaurabh-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/philsaurabh)
 [![hackerearth badge](https://img.shields.io/badge/hackerearth-@philsaurabh-purple?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
 [![quora badge](https://img.shields.io/badge/quora-@philsaurabh-red?style=flat-square&logo=quora)](https://www.quora.com/profile/Saurabh-Sharma-1314)
 
 
-- 🎓 I'm currently learning everything🤣
+- 🎓 I'm currently trying to learn everything.
 - 🌱 I’m learning from open source projects, youtube and my individual experience📕
 - 🤝🏻 I’m open for collaborations in **Machine Learning** and **Web Development** domains.
 - 📺 I'm looking for **Good Projects**.
