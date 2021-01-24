@@ -10,7 +10,7 @@
 - 🌱 I’m learning from open source projects, youtube and my individual experience📕
 - 🤝🏻 I’m open for collaborations in **Machine Learning** and **Web Development** domains.
 - 📺 I'm looking for **Good Projects**.
-- 🥅 Goal (2020): **Contribute** openly to **Data Science and Web Developer community**.
+- 🥅 Goal (2021): **Learn and explore** some new fields and dimensions of Computer Science.
 - 📌 Scroll down to see my **Pinned Repositories**.
 - ⚡ Fun fact: I love classical music.
 - 💻 Here are my **GitHub Stats**:<br/><br/>
