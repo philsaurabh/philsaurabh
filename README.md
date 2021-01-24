@@ -20,7 +20,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philsaurabh&title_color=C00&layout=compact" />
 </a><hr />
 
-## My Digital Footprints 🌱
+## My Digital Footprints 	💻👣
 I am full stack developer and ML enthusiast looking to solve real world problems. 
 I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, **please do ⭐ the repository**.
