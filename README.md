@@ -4,6 +4,10 @@
 [![hackerrank badge](https://img.shields.io/badge/hackerrank-philsaurabh-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/philsaurabh)
 [![hackerearth badge](https://img.shields.io/badge/hackerearth-@philsaurabh-purple?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
 [![quora badge](https://img.shields.io/badge/quora-@philsaurabh-red?style=flat-square&logo=quora)](https://www.quora.com/profile/Saurabh-Sharma-1314)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/phhilsaurabh/count.svg" />
+</p>
 
 
 - 🎓 I'm currently trying to learn everything.
