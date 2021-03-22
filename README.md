@@ -1,9 +1,6 @@
 ## Hi there, I'm [Saurabh](https://philsaurabh.github.io/SaurabhWebResume/)!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![website badge](https://img.shields.io/badge/website-philsaurabh-yellow?style=flat-square)](https://philsaurabh.wordpress.com)
-[![twitter badge](https://img.shields.io/badge/twitter-@philsaurabh-blue?style=flat-square&logo=twitter)](https://twitter.com/philsaurabh)
-[![hackerrank badge](https://img.shields.io/badge/hackerrank-philsaurabh-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/philsaurabh)
-[![hackerearth badge](https://img.shields.io/badge/hackerearth-@philsaurabh-purple?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
-[![quora badge](https://img.shields.io/badge/quora-@philsaurabh-red?style=flat-square&logo=quora)](https://www.quora.com/profile/Saurabh-Sharma-1314)
+[![quora badge](https://img.shields.io/badge/quora-philsaurabh-red?style=flat-square&logo=quora)](https://www.quora.com/profile/Saurabh-Sharma-1314)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=philsaurabh)
 
 - 🎓 I'm currently trying to learn everything.
@@ -21,20 +18,9 @@
 </a><hr />
 
 ## My Digital Footprints 	💻👣
-I am full stack developer and ML enthusiast looking to solve real world problems. 
-I have a passion for learning and sharing my knowledge with others as publicly as possible. 
-If you found value in something I have created, **please do ⭐ the repository**.
-
-I am visible on multiple platforms with the name philsaurabh(Lover of Saurabh 😄) 
-<details>
- <summary><strong>What I am learning/working on these days(Click to see the list)</strong></summary>
-   - Machine Learning and Full Stack Development<br/>
-   - Hackerearth<br/>
-   - Hackerrank<br/>
-   - Quora<br/>
-   - Working on open source projects.
-</details>
-
+- [![github badge](https://img.shields.io/badge/github-philsaurabh-black?style=flat-square&logo=github)](https://www.github.com/philsaurabh)
+- [![hackerrank badge](https://img.shields.io/badge/hackerrank-philsaurabh-darkgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/philsaurabh)
+- [![hackerearth badge](https://img.shields.io/badge/hackerearth-@philsaurabh-purple?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
 <hr />
 
 
@@ -55,9 +41,13 @@ I am visible on multiple platforms with the name philsaurabh(Lover of Saurabh �
 <hr/>
 
 ## Connect me on 🤝
-- My [LinkedIn](https://www.linkedin.com/in/philsaurabh/) 👨🏻‍💻
-- My [Github](https://www.github.com/philsaurabh)  👨🏻‍🧮
+- [![linkedin badge](https://img.shields.io/badge/linkedin-philsaurabh-darkblue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/philsaurabh/) 👨🏻‍💻
+- [![twitter badge](https://img.shields.io/badge/twitter-philsaurabh-blue?style=flat-square&logo=twitter)](https://twitter.com/philsaurabh) 👨
+
 <br/>
+
+If you found value in something I have created, **please do ⭐ the repository**.
+
 Feel free to reach out in case you want to just get in touch also.
 
 **But,**<br/> 
