@@ -48,7 +48,7 @@
 
 If you found value in something I have created, **please do ⭐ the repository**.
 
-Feel free to reach out in case you want to just get in touch also.
+Feel free to reach out in case you want to just get in touch.
 
 **But,**<br/> 
 _**Note:** Please **do not spam** on the above mentioned profiles._
