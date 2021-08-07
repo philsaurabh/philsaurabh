@@ -1,5 +1,5 @@
 ## Hi there, I'm [Saurabh](https://philsaurabh.github.io/SaurabhWebResume/)!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![website badge](https://img.shields.io/badge/website-philsaurabh-yellow?style=flat-square&logo=wordpress)](https://philsaurabh.wordpress.com)
+[![google badge](https://img.shields.io/badge/website-philsaurabh-yellow?style=flat-square&logo=google)](https://sites.google.com/view/saurabh-sharma/home)
 [![quora badge](https://img.shields.io/badge/quora-philsaurabh-red?style=flat-square&logo=quora)](https://www.quora.com/profile/Saurabh-Sharma-1314)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=philsaurabh)
 
@@ -20,7 +20,7 @@
 ## My Digital Footprints 	💻👣
 - [![github badge](https://img.shields.io/badge/github-philsaurabh-black?style=flat-square&logo=github)](https://www.github.com/philsaurabh)
 - [![hackerrank badge](https://img.shields.io/badge/hackerrank-philsaurabh-darkgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/philsaurabh)
-- [![hackerearth badge](https://img.shields.io/badge/hackerearth-@philsaurabh-purple?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
+- [![hackerearth badge](https://img.shields.io/badge/hackerearth-philsaurabh-purple?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
 <hr />
 
 
