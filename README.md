@@ -18,7 +18,6 @@
 </a><hr />
 
 ## My Digital Footprints 	💻👣
-- [![github badge](https://img.shields.io/badge/github-philsaurabh-black?style=flat-square&logo=github)](https://www.github.com/philsaurabh)
 - [![hackerrank badge](https://img.shields.io/badge/hackerrank-philsaurabh-darkgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/philsaurabh)
 - [![hackerearth badge](https://img.shields.io/badge/hackerearth-philsaurabh-purple?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@philsaurabh)
 <hr />
