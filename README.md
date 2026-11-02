@@ -125,9 +125,10 @@ mindmap
 
 ## 📊 GitHub Analytics
 
+<!-- Cards below are generated inside this repo by .github/workflows/profile-cards.yml -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=philsaurabh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philsaurabh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -135,11 +136,8 @@ mindmap
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=philsaurabh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=philsaurabh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies"/>
+  <img width="49%" src="./profile/activity.svg" alt="Contribution activity"/>
+  <img width="49%" src="./profile/achievements.svg" alt="GitHub achievements"/>
 </p>
 
 <!-- Snake animation: generated daily by .github/workflows/snake.yml onto the `output` branch -->
