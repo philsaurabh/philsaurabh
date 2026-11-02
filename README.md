@@ -135,10 +135,6 @@ mindmap
   <img src="https://streak-stats.demolab.com?user=philsaurabh&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img width="49%" src="./profile/activity.svg" alt="Contribution activity"/>
-  <img width="49%" src="./profile/achievements.svg" alt="GitHub achievements"/>
-</p>
 
 <!-- Snake animation: generated daily by .github/workflows/snake.yml onto the `output` branch -->
 <p align="center">
