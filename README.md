@@ -31,7 +31,7 @@
 
 I'm an **Institute Postdoctoral Fellow** at the **Department of Computational and Data Sciences, Indian Institute of Science (IISc), Bengaluru**, building **foundation models in federated settings** for medicine and healthcare.
 
-- 🧠 **Program Manager, IndiNeuroFM**: a sovereign Indian foundation model for the human brain (TANUH AI-CoE, with 12 medical partners)
+- 🧠 **Program Manager, IndiNeuroFM**: a sovereign Indian foundation model for the human brain (TANUH AI-CoE, with >20 medical partners)
 - 🎓 **Ph.D., CSE, IIT Patna** (*Efficient Techniques for Knowledge Distillation*) · **PMRF** fellow, 2021–2024
 - 🔬 Working on **knowledge distillation**, **federated & privacy-aware learning**, **medical image analysis**, **deepfake detection in medical imaging** and **uncertainty estimation**
 - 🏥 Earlier: TANUH Breast Cancer vertical and the Medical Imaging Group (MIG) at IISc · Assistant Professor at KIET · DevOps intern at Myntra
