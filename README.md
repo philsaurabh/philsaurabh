@@ -150,7 +150,7 @@ mindmap
 ## 👣 Digital Footprints
 
 <p align="center">
-  <a href="https://philsaurabh.github.io/SaurabhWebResume/"><img src="https://img.shields.io/badge/Web%20Resume-philsaurabh-6E40C9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Web resume"/></a>
+  <a href="https://drive.google.com/file/d/1bNJ2_eSaP7KjiRN9l68WferTk-Bjrgjm/view?usp=drive_link/"><img src="https://img.shields.io/badge/Academic%20CV-philsaurabh-6E40C9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Academic CV"/></a>
   <a href="https://www.quora.com/profile/Saurabh-Sharma-1314"><img src="https://img.shields.io/badge/Quora-Saurabh%20Sharma-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora"/></a>
   <a href="https://www.hackerrank.com/philsaurabh"><img src="https://img.shields.io/badge/HackerRank-philsaurabh-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
   <a href="https://www.hackerearth.com/@philsaurabh"><img src="https://img.shields.io/badge/HackerEarth-philsaurabh-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/></a>
